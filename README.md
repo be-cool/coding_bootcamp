@@ -1,2 +1,2 @@
 # coding_bootcamp
-This is a practice repo
+This is the first repo I have made.
